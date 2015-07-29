@@ -1,0 +1,22 @@
+{
+  "name": "jansenfelipe-ncm",
+  "version": "1.0.0",
+  "description": "O objetivo desse repositório é dipor a lista atualizada de NCM.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jansenfelipe/ncm.git"
+  },
+  "keywords": [
+    "ncm",
+    "nfe"
+  ],
+  "author": "Jansen Felipe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jansenfelipe/ncm/issues"
+  },
+  "homepage": "https://github.com/jansenfelipe/ncm"
+}

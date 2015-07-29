@@ -1,0 +1,14 @@
+{
+    "name": "jansenfelipe/ncm",
+    "description": "Lista atualizada de NCM",
+    "keywords": ["ncm", "nfe"],
+    "license": "MIT",
+
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+
+    "minimum-stability": "dev"
+}
