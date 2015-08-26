@@ -16,7 +16,7 @@ $ composer require jansenfelipe/ncm
 ### NPM 
 
 ```shell
-$ npm install jansenfelipe-cfop
+$ npm install jansenfelipe-ncm
 ```
 
 ### Licence
